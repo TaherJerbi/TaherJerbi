@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taher</h1>
-<h3 align="center">A passionate full stack typescript developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate full stack web developer from Tunisia 🇹🇳</h3>
 
 - 🌱 I’m currently learning **🦀 Rust**
 
