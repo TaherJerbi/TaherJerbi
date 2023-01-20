@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning 🦀 Rust
 
-[![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaherJerbi)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TaherJerbi)](https://git.io/streak-stats)
 
 <!--
 **TaherJerbi/TaherJerbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
