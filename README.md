@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **🦀 Rust**
 
-- 💬 Ask me about **react, javascript and type-safety 🔒**
+- 💬 Ask me about **react, javascript and typescript**
 
 - 📫 How to reach me **jerbi.taherr@gmail.com**
 
