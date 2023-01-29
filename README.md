@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react, javascript and typescript**
 
+- 👨‍💻 All of my projects are available at **[taherjerbi.vercel.app](https://taherjerbi.vercel.app)**
+
 - 📫 How to reach me **jerbi.taherr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
