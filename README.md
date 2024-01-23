@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate full stack web developer from Tunisia 🇹🇳</h3>
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 - 🌱 I’m currently learning **🦀 Rust**
 
 - 💬 Ask me about **react, javascript and typescript**
