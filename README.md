@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate full stack web developer from Tunisia 🇹🇳</h3>
 
-- 👨‍💻 Check out my portfolio website **[taherjerbi.vercel.app](https://taherjerbi.vercel.app)**
+- 👨‍💻 Check out my portfolio website **[taherjerbi.com](https://taherjerbi.com)**
 
 - 📫 How to reach me **jerbi.taherr@gmail.com**
 
